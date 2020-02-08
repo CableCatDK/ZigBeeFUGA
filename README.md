@@ -9,3 +9,6 @@ The project is not endorsed by the manufacetures who's producted are being modif
 * ZigBee is own by ZigBee Alliance.
 
 Everthing is lincesed under CC BY-NC-SA 4.0, unless noted otherwised.
+
+Please see the WiKi for more infomaintion:
+https://github.com/CableCatDK/ZigBeeFUGA/wiki
